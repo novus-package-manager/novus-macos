@@ -1,1 +1,1 @@
-# novus-linux
+# novus-macos
